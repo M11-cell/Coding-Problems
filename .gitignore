@@ -10,7 +10,7 @@
 !*.cpp
 
 #also dont ignore .py files
-!
+!*.py
 
 #and also dont ignore the .gitignore file itself 
 
