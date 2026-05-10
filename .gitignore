@@ -9,6 +9,9 @@
 #and dont ignore .cpp files
 !*.cpp
 
+#also dont ignore .py files
+!*.py
+
 #and also dont ignore the .gitignore file itself 
 
 !*gitignore
