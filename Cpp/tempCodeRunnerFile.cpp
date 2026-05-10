@@ -1,8 +1,7 @@
-//Check for da win 
-                if(board.checkWin(currentplayer.getSymbol())){
-                    board.drawBoard();
-                    cout << currentplayer.getName() << " Wins !" << endl;
-                    return;
-                }
-                
-                switchTurn(); 
+std::string result = ""; 
+
+    // for(size_t i = 0; i < binaryInput.size() - 4; ++i){
+
+
+
+    // }
