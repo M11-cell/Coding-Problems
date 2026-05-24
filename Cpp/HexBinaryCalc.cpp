@@ -39,8 +39,6 @@ std::string convertBinaryToHex(const std::string& binaryInput) {
     
     std::string result = ""; 
 
-    //TODO (Michael): Produce logic in for loop to convert binary values to hex. If binary value > 10, make sure hex returns A, B, C or D. 
-
     std::string bin = binaryInput;
     int raw = static_cast<int>(bin.size() % 4); 
     //if bin.size %4 != 0, add 2 zeros on left most side
