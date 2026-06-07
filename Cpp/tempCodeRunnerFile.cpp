@@ -1,1 +1,1 @@
-chunk = bin.substr(i, 4);
+std::cout << "number = " << number_list[i] << std::endl; 
